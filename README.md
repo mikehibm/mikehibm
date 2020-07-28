@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mikehibm)
+![GitHub Stats Card](https://github-readme-stats-20200728.vercel.app/api?username=mikehibm)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mikehibm)
+![Top Languages Card](https://github-readme-stats-20200728.vercel.app/api/top-langs/?username=mikehibm)
 
 - 🌱 I’m currently learning ... Javascript!
